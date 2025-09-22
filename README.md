@@ -39,7 +39,7 @@
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 
-### <picture> <img src = "https://cdn.dribbble.com/userupload/24890778/file/original-d6503d19e09a7f7c0ce51e1eddbdc1c2.gif" width = 20px> </picture> Google Cloud Skills
+### <picture> <img src = "https://cdn.dribbble.com/userupload/20625451/file/original-9ab75acd5f0b58a3a943efc4d962cb35.gif" width = 20px> </picture> Google Cloud Skills
 
 [![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/catalog_lab/3390)
 [![VPC Networking & GCE](https://img.shields.io/badge/VPC_Networking_&_GCE-34A853?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/catalog_lab/4742)
