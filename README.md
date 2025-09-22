@@ -41,7 +41,8 @@
 
 ### <picture> <img src = "https://img.icons8.com/color/512/google-cloud.png" width = 20px> </picture> Google Cloud Skills
 
-![Google Cloud Labs](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffreepng%2Flab-icon_8344171.html&psig=AOvVaw0g81Dj1FDgVVK8nxqbEw8K&ust=1758603811146000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNjTkazL648DFQAAAAAdAAAAABAL)
+![Labs](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
 
 
 
