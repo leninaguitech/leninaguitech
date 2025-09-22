@@ -11,7 +11,7 @@
 
 <!--About Me-->
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+## <picture><img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fkhadiza-developer.netlify.app%2F&psig=AOvVaw1BLk6N7brxITBo1JnmFqgf&ust=1758613880870000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDf9Pzx648DFQAAAAAdAAAAABAV" width = 30px></picture> About me
 
 <picture> <img align="right" src="https://camo.githubusercontent.com/edd6a178ee6a4b30c0bf595da631485f25e8a863620e3efe386969cc11e70bc3/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6262653634325f36323431346535306265663334636532386462316166616266353566313765637e6d76322e676966" width = 300px></picture>
 
