@@ -13,7 +13,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-<picture> <img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fkhadiza-developer.netlify.app%2F&psig=AOvVaw1BLk6N7brxITBo1JnmFqgf&ust=1758613880870000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDf9Pzx648DFQAAAAAdAAAAABAV" width = 300px></picture>
+<picture> <img align="right" src="https://khadiza-developer.netlify.app/assets/banner-BsWJnROz.gif" width = 300px></picture>
 
 - :school: Currently studying to become a Full Stack Web developer in [TripleTen University](https://tripleten.com/)
 - :technologist: **Working on** `Frontend Development Projects` 
