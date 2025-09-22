@@ -42,6 +42,6 @@
 ### <picture> <img src = "https://img.icons8.com/color/512/google-cloud.png" width = 20px> </picture> Google Cloud Skills
 
 ![Labs](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-[![Cloud Run Badge](https://cdn.qwiklabs.com/cloudrun.png)](https://www.cloudskillsboost.google/catalog_lab/3390)   
+[![Cloud Run Badge](https://cdn.qwiklabs.com/1d2sNybCwEWoWfxc%2FNEUFPsGq9ntjZEQgOgq2RJHmE4%3D)](https://www.cloudskillsboost.google/catalog_lab/3390)   
 
 
