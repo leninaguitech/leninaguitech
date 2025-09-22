@@ -16,7 +16,7 @@
 <picture> <img align="right" src="https://khadiza-developer.netlify.app/assets/banner-BsWJnROz.gif" width = 400px></picture>
 
 - :school: Currently studying to become a Full Stack Web developer in [TripleTen University](https://tripleten.com/)
-- :technologist: **Working on** `Frontend Development Projects` 
+- :technologist: **Working on** `Frontend Development Projects` and `Google Cloud Associate Engineer Labs`
 - :boom: You can visit [My LinkedIn Site](https://www.linkedin.com/in/lenin-aguilar-a3a65b168/) 
 - while (alive) { <br>
         eat();<br>
