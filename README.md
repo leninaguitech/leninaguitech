@@ -39,5 +39,7 @@
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 
+### <picture> <img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FArchivo%3AGoogle_Cloud_logo.svg&psig=AOvVaw2bPUTydG8fl-sEmpeZK9kH&ust=1758603349475000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNjh2dDJ648DFQAAAAAdAAAAABAE" width = 20px> </picture> Google Cloud Skills
+
 
 
