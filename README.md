@@ -15,15 +15,16 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- :school: Currently studying to become a Full Stack Web developer [School of Cyber Science and Technology](https://cst.buaa.edu.cn/) in [BUAA](https://ev.buaa.edu.cn/)
+- :school: Currently studying to become a Full Stack Web developer [TripleTen University](https://cst.buaa.edu.cn/) in [BUAA](https://tripleten.com/)
 - :technologist: **Currently working on** `Frontend Development Projects` 
-- :boom: You can visit [My LinkedIn Site](https://www.linkedin.com/in/lenin-aguilar-a3a65b168/) for more information about my work background
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:leninaguitech@gmail.com)
-- :nerd_face: while (alive) {
-                    (eat);
-                    (sleep);
-                    (code);
-                    (repeat);
-                     }
+- :boom: You can visit [My LinkedIn Site](https://www.linkedin.com/in/lenin-aguilar-a3a65b168/) 
+- :nerd_face:
+
+while (alive) {
+      (eat);
+      (sleep);
+      (code);
+      (repeat);
+      }
 
 <br>
