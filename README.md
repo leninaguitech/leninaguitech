@@ -18,13 +18,11 @@
 - :school: Currently studying to become a Full Stack Web developer in [TripleTen University](https://tripleten.com/)
 - :technologist: **Currently working on** `Frontend Development Projects` 
 - :boom: You can visit [My LinkedIn Site](https://www.linkedin.com/in/lenin-aguilar-a3a65b168/) 
-- :nerd_face:
-
-while (alive) { <br>
-      (eat);<br>
-      (sleep);<br>
-      (code);<br>
-      (repeat);<br>
-      }
+- :nerd_face:while (alive) { <br>
+                   (eat);<br>
+                   (sleep);<br>
+                   (code);<br>
+                   (repeat);<br>
+                    }
 
 <br>
