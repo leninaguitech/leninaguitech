@@ -16,7 +16,7 @@
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 - :school: Currently studying to become a Full Stack Web developer in [TripleTen University](https://tripleten.com/)
-- :technologist: **Currently working on** `Frontend Development Projects` 
+- :technologist: **Working on** `Frontend Development Projects` 
 - :boom: You can visit [My LinkedIn Site](https://www.linkedin.com/in/lenin-aguilar-a3a65b168/) 
 - while (alive) { <br>
         eat();<br>
