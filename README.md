@@ -19,11 +19,11 @@
 - :technologist: **Working on** `Frontend Development Projects` and `Google Cloud Associate Engineer Labs`
 - :boom: You can visit [My LinkedIn Site](https://www.linkedin.com/in/lenin-aguilar-a3a65b168/) 
 - while (alive) { <br>
-        eat();<br>
-        sleep();<br>
-         code();<br>
-         repeat();<br>
-         }
+    🍔 eat();<br>
+    🛌 sleep();<br>
+    💻 code();<br>
+    🔁 repeat();<br>
+}
 
 <br>
 
