@@ -41,11 +41,11 @@
 
 ### <picture> <img src = "https://img.icons8.com/color/512/google-cloud.png" width = 20px> </picture> Google Cloud Skills
 
-![Labs](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+[![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/catalog_lab/3390)
+[![VPC Networking & GCE](https://img.shields.io/badge/VPC_Networking_&_GCE-34A853?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/catalog_lab/4742)
+[![Cloud Marketplace](https://img.shields.io/badge/Cloud_Marketplace-0F9D58?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/catalog_lab/1119)
+[![Cloud Storage & Cloud SQL](https://img.shields.io/badge/Cloud_Storage_&_Cloud_SQL-F4B400?style=for-the-badge&logo=googlecloud&logoColor=black)](https://www.cloudskillsboost.google/catalog_lab/1155)
 
-![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlecloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 
 
