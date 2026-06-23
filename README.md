@@ -41,7 +41,7 @@
 
 ### <picture> <img src = "https://edge1s.com/wp-content/uploads/2025/06/GCP.gif" width = 30px> </picture> Google Cloud Skills
 
-[![Associate Cloud Engineer](https://www.credly.com/badges/c9a4b0a9-8f43-42fd-a7a7-db158a86d37e/public_url)
+[![Associate Cloud Engineer](https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.credly.com/badges/c9a4b0a9-8f43-42fd-a7a7-db158a86d37e/public_url)
 [![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/catalog_lab/3390)
 [![VPC Networking & GCE](https://img.shields.io/badge/VPC_Networking_&_GCE-34A853?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/catalog_lab/4742)
 [![Cloud Marketplace](https://img.shields.io/badge/Cloud_Marketplace-0F9D58?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/catalog_lab/1119)
